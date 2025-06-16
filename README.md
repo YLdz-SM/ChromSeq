@@ -73,5 +73,4 @@ Solution:
 
 SUPPORT
 -------
-Email: your.email@example.com
-GitHub: github.com/yourusername/ChromSeq/issues
+Email: younes.laidoudi@yahoo.com
